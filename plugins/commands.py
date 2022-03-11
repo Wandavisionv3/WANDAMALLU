@@ -55,9 +55,6 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('𝙷𝙴𝙻𝙿🦋', callback_data='help'),
             InlineKeyboardButton(' 𝙶𝚛𝚘𝚞𝚙💮 ', url='https://t.me/cinemakottakatwo')
-            ],[
-            InlineKeyboardButton(' 𝙾𝚠𝚗𝚎𝚛🧬 ', url='https://t.me/Tony_Stark06'),
-            InlineKeyboardButton(' 𝙲𝚑𝚊𝚗𝚗𝚎𝚕🌼 ', url='https://t.me/Newcinemazz')
         ]]
         await message.reply_chat_action("typing")
         m=await message.reply_sticker("CAACAgUAAxkBAAEBB2liJjsNVSkfAy_OtYR0Q48dN_9DsAACGgIAAv68YVTI6jnmvnlZlh4E") 
@@ -107,9 +104,6 @@ async def start(client, message):
             ],[
             InlineKeyboardButton('𝙷𝙴𝙻𝙿🦋', callback_data='help'),
             InlineKeyboardButton(' 𝙶𝚛𝚘𝚞𝚙💮 ', url='https://t.me/cinemakottakatwo')
-            ],[
-            InlineKeyboardButton(' 𝙾𝚠𝚗𝚎𝚛🧬 ', url='https://t.me/Tony_Stark06'),
-            InlineKeyboardButton(' 𝙲𝚑𝚊𝚗𝚗𝚎𝚕🌼 ', url='https://t.me/Newcinemazz')
         ]]
         await message.reply_chat_action("typing")
         m=await message.reply_sticker("CAACAgUAAxkBAAEBB2liJjsNVSkfAy_OtYR0Q48dN_9DsAACGgIAAv68YVTI6jnmvnlZlh4E") 

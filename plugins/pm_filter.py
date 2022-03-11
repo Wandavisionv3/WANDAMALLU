@@ -686,14 +686,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('➕ 𝙰𝚍𝚍 𝙼𝚎 𝚃𝚘 𝚈𝚘𝚞𝚛 𝙶𝚛𝚘𝚞𝚙 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton(' 𝚂𝚎𝚊𝚛𝚌𝚑 𝙷𝚎𝚛𝚎 ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton(' 𝙰𝚋𝚘𝚞𝚝 ', callback_data='about')
+            InlineKeyboardButton(' 𝚂𝚎𝚊𝚛𝚌𝚑 𝙷𝚎𝚛𝚎🔎 ', switch_inline_query_current_chat=''),
+            InlineKeyboardButton(' 𝙰𝚋𝚘𝚞𝚝🛰 ', callback_data='about')
             ],[
-            InlineKeyboardButton('𝙷𝙴𝙻𝙿', callback_data='help'),
-            InlineKeyboardButton(' 𝙶𝚛𝚘𝚞𝚙 ', url='https://t.me/moviebus2')
-            ],[
-            InlineKeyboardButton(' 𝙾𝚠𝚗𝚎𝚛 ', url='https://t.me/albintko'),
-            InlineKeyboardButton(' 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 ', url='https://t.me/+AMHw_K1wvOM3MTU9')
+            InlineKeyboardButton('𝙷𝙴𝙻𝙿🦋', callback_data='help'),
+            InlineKeyboardButton(' 𝙶𝚛𝚘𝚞𝚙💮 ', url='https://t.me/cinemakottakatwo')
         ]]        
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -761,9 +758,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁🦜', callback_data='autofilter'),
             InlineKeyboardButton('𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽𝚂🪶', callback_data='coct')
             ],[
-            InlineKeyboardButton('𝚂𝙾𝙽𝙶🎶', callback_data='songs'),
+            InlineKeyboardButton('𝚂𝙾𝙽𝙶🎸', callback_data='songs'),
             InlineKeyboardButton('𝙴𝚇𝚃𝚁𝙰💮', callback_data='extra'),
-            InlineKeyboardButton("𝚅𝙸𝙳𝙴𝙾🦭", callback_data='video')
+            InlineKeyboardButton("𝚅𝙸𝙳𝙴𝙾🎺", callback_data='video')
             ],[
             InlineKeyboardButton('𝚆𝙷𝙾𝙸𝚂🦚', callback_data='whois'),
             InlineKeyboardButton('𝙼𝚄𝚃𝙴🐝', callback_data='restric'),

@@ -2,7 +2,7 @@
   <img src="samantha_7.jpg" alt="Devil V2 Logo">
 </p>
 <h1 align="center">
-  <b>𝚂𝙰𝙼𝙰𝙽𝚃𝙷𝙰 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃</b>
+  <b>ᔑᑕᗩᖇᏞᗴᎢ ᗯᏆᎢᑕᕼ 🦹‍♀</b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/Samantha-a/Film-Club?style=flat-square&color=green)](https://github.com/Samantha-a/Film-Club/stargazers)
@@ -93,6 +93,6 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐋𝐁𝐈𝐍](https://t.me/albintko)                                                                                                                                        
-𝙶𝚁𝙾𝚄𝙿 ›› [𝗙𝗶𝗹𝗶𝗺 𝗖𝗹𝘂𝗯](https://t.me/moviebus2)                                             
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐅𝐂 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 | Super Sharanya](https://t.me/+AMHw_K1wvOM3MTU9)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [HARI](https://t.me/TonyStark2255)                                                                                                                                        
+𝙶𝚁𝙾𝚄𝙿 ›› [🌀⚡️𝐂𝐈𝐍𝐄𝐌𝐀 𝐂𝐎𝐌𝐏𝐀𝐍𝐘 2.0📽️](https://t.me/cinemakottakatwo)                                             
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [🌀⚡️പുതിയ സിനിമകൾ 🎬🌀](https://t.me/Newcinemazz)
